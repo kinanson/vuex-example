@@ -2,7 +2,7 @@
 <ol>
   <li>最簡單的count</li>
   <li>把vuex改成namespaced</li>
-  <li>如果獲取ajax並且跟vue router結合</li>
+  <li>如何獲取ajax並且跟vue router結合</li>
 </ol>
 
 

@@ -13,18 +13,16 @@
     name: 'count',
     methods: {
       ...mapActions([
-        'addCount'
+        'addCount' //對應template的click觸發的action
       ])
     },
     computed: {
       ...mapGetters([
-        'count'
+        'count' //對應到畫面上的{{count}}
       ])
     }
   }
 
 </script>
 <style scoped>
-
-
 </style>

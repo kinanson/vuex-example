@@ -14,7 +14,7 @@ const router = new VueRouter({
 
 new Vue({
   el: '#app',
-  router,
+  router, //這是es6的語法檔，實際也可以寫成router:router
   store,
   render: h => h(App)
 })

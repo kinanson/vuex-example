@@ -7,6 +7,9 @@
       <li>
         <router-link to="countForNamespaced">go to countForNamespaced</router-link>
       </li>
+      <li>
+        <router-link to="ajaxExample">go to ajaxExample</router-link>
+      </li>
     </ul>
     <router-view style="padding-top: 10px"></router-view>
   </div>
